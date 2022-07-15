@@ -1,4 +1,4 @@
 baseURL = 'http://bogdanbolchis.github.io/'
 languageCode = 'en-US'
 title = 'Bogdan Bolchiș'
-theme = 'Archie'
+theme = 'archie'
