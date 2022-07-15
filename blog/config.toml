@@ -1,0 +1,4 @@
+baseURL = 'http://bogdanbolchis.github.io/'
+languageCode = 'ro-RO'
+title = 'Bogdan Bolchiș'
+theme = 'Archie'
