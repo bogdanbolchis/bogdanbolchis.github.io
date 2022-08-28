@@ -6,7 +6,11 @@ draft: false
 
 There are a few things to note when trying to apply animation to specific subviews in a List's row. I've created a [playground app](https://github.com/bogdanbolchis/ListRowUpdates) for experimenting with this, and i've put my learnings in this post.
 
-![Clip](/animating-list-row-subviews.mp4)
+{{< rawhtml >}}
+<video muted playsinline style="max-width:66%">
+	<source src="/animating-list-row-subviews.mp4" type="video/mp4">
+</video>
+{{< /rawhtml >}}
 
 ## Components
 
