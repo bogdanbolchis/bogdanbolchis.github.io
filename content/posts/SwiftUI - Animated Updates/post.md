@@ -1,6 +1,7 @@
 ---
 title: "SwiftUI - Animated Updates of List Row Subviews"
 date: 2022-08-28 16:47:00 +0000
+url: /2022/08/28/animated-updates-of-list-row-subviews.html
 ---
 
 There are a few things to note when trying to apply animation to specific subviews in a List's row. I've created a [playground app](https://github.com/bogdanbolchis/ListRowUpdates) for experimenting with this, and i've put my learnings in this post.
