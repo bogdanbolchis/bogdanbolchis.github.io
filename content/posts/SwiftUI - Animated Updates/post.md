@@ -44,6 +44,6 @@ When the proxy value specified by the id parameter changes, the identity of the 
 
 The value used for the Text view's `id` should be unique for the list's rows: `row.text + row.detail`. This value is bound to the view, and when a different value is set, the identity of the view is reset.
 
-View identity is important in a SwiftUI view hierarchy because if it not reset, the system can skip redrawing that part of the hierarchy, which means less work and faster UI.
+View identity is important in a SwiftUI view hierarchy because if it's not reset, the system can skip redrawing that part of the hierarchy, which means less work and faster UI updates.
 
 The fact that the `id` changes (because `row.detail` changes), causes the Text element with the old `id` to be replaced by a new Text element (with the new `id`). This change in the view hierarchy is what gets animated.
