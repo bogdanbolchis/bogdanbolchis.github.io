@@ -1,0 +1,12 @@
+<!-- https://anaulin.org/blog/hugo-raw-html-shortcode/ -->
+
+<blockquote>
+	<p lang="en" dir="ltr">{{ .Get "text" }}
+		{{ with .Get "url" }}<a href={{ . }}>{{ end }}{{ with .Get "urlLabel" }}{{ . }}</a>{{ end }}
+	</p>
+	{{ with .Get "img1" }}<img src="/{{ . }}">{{ end }}
+	{{ with .Get "img2" }}<img src="/{{ . }}">{{ end }}
+	{{ with .Get "img3" }}<img src="/{{ . }}">{{ end }}
+	{{ with .Get "img4" }}<img src="/{{ . }}">{{ end }}
+	<p>{{ .Get "date" }}</p>
+</blockquote>

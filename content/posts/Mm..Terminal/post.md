@@ -1,7 +1,7 @@
 ---
 title: "Mm..Terminal"
 date: 2022-05-08 10:48:00 +0000
-url: /2022/05/08/mmterminal.html
+draft: false
 ---
 ![Terminal with various fonts](/19ad6a2b7e.png)
 

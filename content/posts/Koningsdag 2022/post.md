@@ -1,7 +1,7 @@
 ---
 title: "Koningsdag 2022 in Utrecht"
 date: 2022-04-28 19:01:17 +0000
-url: /2022/04/28/koningsdag-pic.html
+draft: false
 ---
 ![Terminal screenshot with various fonts](/22a5ef522e.jpg)
 
