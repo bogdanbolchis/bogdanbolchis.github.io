@@ -12,5 +12,10 @@
 
 - add to './static'
 - reference using:
-	- markdown: `[Image name]('/<image.ext>')`
+	- markdown: `![Image name](/path/to/<image.ext>)`
 	- html: `<img src='/<image.ext>' alt='alt'`
+	
+## Deploy
+
+git commit -am "Add new post"
+git push origin main
